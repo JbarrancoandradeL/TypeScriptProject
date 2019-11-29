@@ -1,0 +1,19 @@
+{
+  "name": "typescriptproject",
+  "version": "1.0.0",
+  "description": "app init typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JbarrancoandradeL/TypeScriptProject.git"
+  },
+  "author": "Jhon Barranco Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JbarrancoandradeL/TypeScriptProject/issues"
+  },
+  "homepage": "https://github.com/JbarrancoandradeL/TypeScriptProject#readme"
+}
